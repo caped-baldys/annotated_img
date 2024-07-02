@@ -1,5 +1,5 @@
-train: data_1\images\train
-val: data_1\images\val
-test: data_1\images\test
+train: data\images\train
+val: data\images\val
+test: data\images\test
 nc: 6
 names: ["Scratch", "Dirt", "Bird Dropping", "Rust", "Dent", "Broken"]
