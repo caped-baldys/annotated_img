@@ -1,0 +1,6 @@
+train: C:/Users/DELL/Downloads/joint/train/images
+val: C:/Users/DELL/Downloads/joint/train/images
+test: C:/Users/DELL/Downloads/joint/train/images
+
+nc: 1
+names: ['Joint']
